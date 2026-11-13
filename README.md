@@ -8,12 +8,12 @@ Storefronts: [Gumroad — Smart Start Guides](https://smartstartguideshq.gumroad
 
 ## What's here
 
-| Preview | Full product | Price |
-|---|---|---|
-| `marketplace-starter/` — README, package.json, one component, file tree | Marketplace Starter — Full-Stack Next.js 14 Marketplace | $29 |
-| `b2b-lead-enrichment-template/` — method checklist + blank outreach template | B2B Lead Enrichment Template — Research Method + 1 Verified Worked Example | $15 |
-| `synthetic-dataset-freelance-gigs/` — first 100 rows (CSV + JSONL), clearly labelled synthetic | Freelance Gig Marketplace Transactions — 1,000-Row Synthetic Dataset (CSV + JSONL) | $19 |
-| `legacy-modernization-cobol-ts/` — spec preview + README | COBOL → TypeScript Legacy Modernization Pack | $19 (listing pending approval) |
+| Preview | Full product | Price | Buy the full version |
+|---|---|---|---|
+| `marketplace-starter/` — README, package.json, one component, file tree | Marketplace Starter — Full-Stack Next.js 14 Marketplace | $29 | [Gumroad](https://smartstartguideshq.gumroad.com/l/nkczyt) · [Payhip](https://payhip.com/b/aR7bN) |
+| `b2b-lead-enrichment-template/` — method checklist + blank outreach template | B2B Lead Enrichment Template — Research Method + 1 Verified Worked Example | $15 | [Gumroad](https://smartstartguideshq.gumroad.com/l/jhaydg) · [Payhip](https://payhip.com/b/cXzpC) |
+| `synthetic-dataset-freelance-gigs/` — first 100 rows (CSV + JSONL), clearly labelled synthetic | Freelance Gig Marketplace Transactions — 1,000-Row Synthetic Dataset (CSV + JSONL) | $19 | [Gumroad](https://smartstartguideshq.gumroad.com/l/xocwdl) · [Payhip](https://payhip.com/b/yBYem) |
+| `legacy-modernization-cobol-ts/` — spec preview + README | COBOL → TypeScript Legacy Modernization Pack | $19 (listing pending approval) | Listing coming soon — no link yet |
 
 ## Honest notes
 
