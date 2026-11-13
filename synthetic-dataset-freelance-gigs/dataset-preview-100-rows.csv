@@ -1,0 +1,101 @@
+transaction_id,gig_id,buyer_id,seller_id,gig_category,price_usd,currency,status,created_at,completed_at,rating,platform_fee_usd,payout_method
+txn_000001,gig_0063,buyer_0367,seller_0154,Data Labeling,1481.62,USD,disputed,2025-02-21T08:44:00,,,148.16,crypto_usdc
+txn_000002,gig_0029,buyer_0099,seller_0228,AI Automation,99.57,AED,cancelled,2025-05-10T08:32:00,,,0.0,stripe
+txn_000003,gig_0010,buyer_0144,seller_0023,Web Research,13.88,AED,completed,2025-09-15T00:56:00,2025-10-01T07:37:00,4,1.39,stripe
+txn_000004,gig_0019,buyer_0121,seller_0144,Web Research,1640.49,GBP,completed,2025-11-22T13:03:00,2025-12-06T19:47:00,5,164.05,bank_transfer
+txn_000005,gig_0036,buyer_0328,seller_0122,Web Research,18.51,INR,completed,2026-01-18T14:29:00,2026-02-14T07:59:00,4,1.85,stripe
+txn_000006,gig_0091,buyer_0187,seller_0242,Social Media Management,14.79,USD,in_progress,2025-05-13T08:05:00,,,1.48,gift_card
+txn_000007,gig_0028,buyer_0058,seller_0048,Web Research,43.77,USD,completed,2025-04-01T03:16:00,2025-04-30T07:32:00,3,4.38,crypto_sol
+txn_000008,gig_0086,buyer_0046,seller_0122,Data Labeling,49.54,INR,in_progress,2025-03-01T18:03:00,,,4.95,stripe
+txn_000009,gig_0062,buyer_0292,seller_0241,Video Editing,417.48,USD,cancelled,2026-02-04T16:38:00,,,0.0,stripe
+txn_000010,gig_0011,buyer_0393,seller_0177,Web Development,208.33,GBP,completed,2025-08-05T11:59:00,2025-08-21T17:38:00,5,20.83,gift_card
+txn_000011,gig_0042,buyer_0362,seller_0147,AI Content Writing,10.12,GBP,completed,2025-10-19T08:52:00,2025-10-24T01:08:00,2,1.01,crypto_sol
+txn_000012,gig_0053,buyer_0196,seller_0050,Social Media Management,11.29,USD,disputed,2026-04-08T02:37:00,,,1.13,stripe
+txn_000013,gig_0038,buyer_0119,seller_0209,Translation,1950.8,EUR,completed,2026-10-08T05:45:00,2026-10-25T06:43:00,5,195.08,gift_card
+txn_000014,gig_0111,buyer_0051,seller_0076,Virtual Assistance,23.05,INR,completed,2026-02-11T16:50:00,2026-02-20T13:40:00,4,2.31,bank_transfer
+txn_000015,gig_0097,buyer_0258,seller_0135,Logo & Brand Design,1549.25,USD,completed,2025-11-11T16:41:00,2025-12-04T08:57:00,,154.93,crypto_usdc
+txn_000016,gig_0012,buyer_0039,seller_0042,Logo & Brand Design,293.37,USD,completed,2025-03-14T15:48:00,2025-03-16T15:31:00,3,29.34,crypto_usdc
+txn_000017,gig_0109,buyer_0057,seller_0058,Web Development,17.38,USD,refunded,2025-10-31T09:18:00,,,0.0,crypto_usdc
+txn_000018,gig_0072,buyer_0228,seller_0174,AI Content Writing,17.13,INR,in_progress,2025-06-19T08:04:00,,,1.71,stripe
+txn_000019,gig_0080,buyer_0331,seller_0247,SEO Services,1048.73,USD,completed,2026-09-20T20:12:00,2026-10-08T19:56:00,5,104.87,gift_card
+txn_000020,gig_0112,buyer_0330,seller_0201,Data Entry,285.75,EUR,completed,2025-08-15T09:50:00,2025-09-06T05:35:00,,28.58,bank_transfer
+txn_000021,gig_0098,buyer_0150,seller_0056,AI Content Writing,451.41,USD,refunded,2026-05-06T15:35:00,,,0.0,gift_card
+txn_000022,gig_0055,buyer_0275,seller_0144,Data Entry,391.23,EUR,in_progress,2025-11-17T21:38:00,,,39.12,gift_card
+txn_000023,gig_0054,buyer_0160,seller_0201,Web Research,23.62,EUR,in_progress,2025-03-20T23:27:00,,,2.36,paypal
+txn_000024,gig_0018,buyer_0373,seller_0062,AI Content Writing,16.35,USD,completed,2026-03-01T16:05:00,2026-03-24T20:12:00,3,1.64,stripe
+txn_000025,gig_0058,buyer_0301,seller_0101,Logo & Brand Design,440.39,USD,in_progress,2026-05-08T02:01:00,,,44.04,gift_card
+txn_000026,gig_0065,buyer_0141,seller_0044,Web Development,18.16,GBP,completed,2025-09-14T06:19:00,2025-09-22T00:45:00,5,1.82,gift_card
+txn_000027,gig_0013,buyer_0180,seller_0188,AI Content Writing,243.63,INR,completed,2026-07-07T16:00:00,2026-08-03T00:18:00,4,24.36,stripe
+txn_000028,gig_0071,buyer_0276,seller_0183,AI Automation,14.65,USD,in_progress,2026-03-23T17:14:00,,,1.47,crypto_usdc
+txn_000029,gig_0112,buyer_0106,seller_0066,Data Entry,44.77,USD,completed,2025-06-12T04:29:00,2025-06-27T07:43:00,5,4.48,paypal
+txn_000030,gig_0068,buyer_0342,seller_0089,Web Development,9.83,USD,completed,2025-04-29T01:18:00,2025-05-26T12:39:00,,0.98,gift_card
+txn_000031,gig_0066,buyer_0390,seller_0208,Web Development,295.14,GBP,completed,2025-09-05T08:30:00,2025-10-02T10:40:00,4,29.51,gift_card
+txn_000032,gig_0055,buyer_0001,seller_0163,Data Entry,381.67,USD,in_progress,2025-01-26T05:14:00,,,38.17,crypto_sol
+txn_000033,gig_0048,buyer_0316,seller_0227,Data Entry,20.88,USD,completed,2025-03-27T07:12:00,2025-04-24T10:10:00,5,2.09,paypal
+txn_000034,gig_0068,buyer_0214,seller_0153,Web Development,32.44,EUR,completed,2026-02-03T09:57:00,2026-02-05T02:49:00,4,3.24,paypal
+txn_000035,gig_0031,buyer_0284,seller_0086,AI Content Writing,51.45,USD,in_progress,2025-10-14T16:14:00,,,5.15,crypto_sol
+txn_000036,gig_0029,buyer_0295,seller_0228,AI Automation,299.35,USD,completed,2025-02-20T13:26:00,2025-03-20T03:54:00,5,29.94,crypto_sol
+txn_000037,gig_0006,buyer_0089,seller_0210,Data Labeling,55.34,USD,in_progress,2025-07-28T10:43:00,,,5.53,bank_transfer
+txn_000038,gig_0039,buyer_0250,seller_0178,Social Media Management,1535.59,USD,completed,2025-07-25T04:39:00,2025-07-30T20:57:00,1,153.56,gift_card
+txn_000039,gig_0051,buyer_0374,seller_0137,Data Labeling,69.31,USD,completed,2026-05-01T19:40:00,2026-05-17T08:20:00,5,6.93,crypto_usdc
+txn_000040,gig_0116,buyer_0243,seller_0024,Translation,70.03,EUR,completed,2025-11-19T03:23:00,2025-11-19T23:57:00,1,7.0,crypto_sol
+txn_000041,gig_0005,buyer_0396,seller_0051,Translation,78.47,GBP,cancelled,2025-06-19T07:58:00,,,0.0,bank_transfer
+txn_000042,gig_0038,buyer_0017,seller_0238,Translation,1832.1,INR,cancelled,2026-08-22T01:59:00,,,0.0,crypto_usdc
+txn_000043,gig_0037,buyer_0332,seller_0002,Translation,28.88,AED,completed,2026-10-10T03:37:00,2026-11-08T20:44:00,5,2.89,stripe
+txn_000044,gig_0007,buyer_0224,seller_0074,AI Content Writing,21.95,USD,cancelled,2026-08-01T10:12:00,,,0.0,stripe
+txn_000045,gig_0120,buyer_0350,seller_0111,AI Automation,3854.25,INR,completed,2025-10-07T23:13:00,2025-10-30T17:37:00,4,385.43,crypto_usdc
+txn_000046,gig_0111,buyer_0174,seller_0218,Virtual Assistance,18.12,USD,completed,2026-06-26T01:38:00,2026-07-03T10:29:00,4,1.81,paypal
+txn_000047,gig_0031,buyer_0160,seller_0172,AI Content Writing,4730.83,USD,in_progress,2026-05-02T10:29:00,,,473.08,gift_card
+txn_000048,gig_0098,buyer_0199,seller_0116,AI Content Writing,1883.88,AED,completed,2026-04-20T08:49:00,2026-04-22T07:12:00,5,188.39,stripe
+txn_000049,gig_0058,buyer_0050,seller_0133,Logo & Brand Design,441.59,USD,completed,2025-12-07T02:09:00,2025-12-20T00:04:00,5,44.16,crypto_sol
+txn_000050,gig_0100,buyer_0194,seller_0030,Translation,8.58,USD,completed,2025-10-26T07:26:00,2025-11-19T04:30:00,5,0.86,crypto_sol
+txn_000051,gig_0092,buyer_0342,seller_0220,Social Media Management,160.5,EUR,completed,2025-04-14T04:47:00,2025-05-10T11:26:00,5,16.05,crypto_sol
+txn_000052,gig_0034,buyer_0188,seller_0233,Web Development,390.32,USD,in_progress,2026-08-29T04:03:00,,,39.03,bank_transfer
+txn_000053,gig_0001,buyer_0115,seller_0016,Data Entry,8.49,AED,completed,2025-06-01T21:01:00,2025-06-19T04:09:00,3,0.85,gift_card
+txn_000054,gig_0102,buyer_0080,seller_0170,SEO Services,1389.13,USD,completed,2025-02-24T11:44:00,2025-03-05T23:09:00,2,138.91,stripe
+txn_000055,gig_0068,buyer_0248,seller_0163,Web Development,39.47,AED,completed,2025-03-10T21:53:00,2025-03-25T09:52:00,5,3.95,stripe
+txn_000056,gig_0054,buyer_0220,seller_0246,Web Research,9.24,USD,completed,2026-05-16T10:34:00,2026-06-07T19:35:00,,0.92,paypal
+txn_000057,gig_0108,buyer_0016,seller_0225,Video Editing,386.09,GBP,refunded,2025-04-08T09:35:00,,,0.0,crypto_sol
+txn_000058,gig_0109,buyer_0284,seller_0063,Web Development,147.25,USD,completed,2026-07-23T14:52:00,2026-08-21T11:49:00,4,14.73,gift_card
+txn_000059,gig_0119,buyer_0030,seller_0191,AI Automation,26.65,AED,completed,2026-01-01T04:19:00,2026-01-06T21:26:00,5,2.67,gift_card
+txn_000060,gig_0038,buyer_0011,seller_0165,Translation,244.07,GBP,completed,2025-04-27T11:43:00,2025-05-13T23:27:00,3,24.41,crypto_usdc
+txn_000061,gig_0046,buyer_0238,seller_0066,Logo & Brand Design,356.08,USD,in_progress,2026-02-01T04:17:00,,,35.61,crypto_usdc
+txn_000062,gig_0103,buyer_0087,seller_0095,Translation,58.42,INR,completed,2025-08-31T10:50:00,2025-09-24T06:58:00,5,5.84,stripe
+txn_000063,gig_0047,buyer_0143,seller_0183,AI Content Writing,497.63,GBP,refunded,2025-04-04T10:19:00,,,0.0,crypto_usdc
+txn_000064,gig_0075,buyer_0191,seller_0142,Data Entry,1824.45,USD,completed,2026-06-02T23:25:00,2026-06-21T05:20:00,5,182.45,bank_transfer
+txn_000065,gig_0003,buyer_0158,seller_0197,Logo & Brand Design,239.24,AED,completed,2026-04-26T16:51:00,2026-04-30T17:17:00,4,23.92,crypto_sol
+txn_000066,gig_0116,buyer_0049,seller_0070,Translation,22.69,GBP,in_progress,2025-02-28T22:16:00,,,2.27,stripe
+txn_000067,gig_0092,buyer_0168,seller_0250,Social Media Management,80.69,EUR,cancelled,2026-10-05T21:57:00,,,0.0,crypto_sol
+txn_000068,gig_0049,buyer_0312,seller_0178,AI Automation,322.58,EUR,cancelled,2025-11-07T21:46:00,,,0.0,stripe
+txn_000069,gig_0098,buyer_0317,seller_0111,AI Content Writing,24.31,INR,completed,2026-04-30T19:55:00,2026-05-30T16:47:00,5,2.43,crypto_sol
+txn_000070,gig_0045,buyer_0115,seller_0118,Virtual Assistance,256.02,GBP,in_progress,2026-06-16T08:41:00,,,25.6,crypto_sol
+txn_000071,gig_0098,buyer_0352,seller_0229,AI Content Writing,7.9,AED,refunded,2025-12-09T04:58:00,,,0.0,stripe
+txn_000072,gig_0046,buyer_0397,seller_0081,Logo & Brand Design,92.63,AED,in_progress,2025-02-16T01:22:00,,,9.26,crypto_usdc
+txn_000073,gig_0038,buyer_0374,seller_0206,Translation,427.68,GBP,disputed,2025-04-25T05:26:00,,,42.77,stripe
+txn_000074,gig_0063,buyer_0358,seller_0088,Data Labeling,108.35,INR,completed,2026-06-12T17:43:00,2026-07-09T15:33:00,4,10.84,gift_card
+txn_000075,gig_0110,buyer_0214,seller_0068,Logo & Brand Design,189.16,USD,completed,2026-02-12T13:58:00,2026-02-17T02:13:00,4,18.92,paypal
+txn_000076,gig_0104,buyer_0304,seller_0070,Logo & Brand Design,13.01,AED,completed,2025-05-25T02:07:00,2025-06-21T10:14:00,4,1.3,crypto_sol
+txn_000077,gig_0063,buyer_0167,seller_0099,Data Labeling,435.68,INR,completed,2026-09-22T04:28:00,2026-09-23T00:57:00,5,43.57,crypto_usdc
+txn_000078,gig_0052,buyer_0188,seller_0162,Video Editing,60.57,USD,completed,2026-07-27T14:02:00,2026-08-09T00:20:00,4,6.06,crypto_sol
+txn_000079,gig_0036,buyer_0224,seller_0180,Web Research,370.02,USD,completed,2026-02-12T08:59:00,2026-02-21T11:20:00,4,37.0,bank_transfer
+txn_000080,gig_0033,buyer_0090,seller_0017,Web Development,308.45,EUR,completed,2026-02-07T09:00:00,2026-02-18T14:57:00,5,30.84,paypal
+txn_000081,gig_0026,buyer_0070,seller_0170,Web Development,35.99,GBP,completed,2026-02-22T04:28:00,2026-03-17T09:45:00,5,3.6,stripe
+txn_000082,gig_0105,buyer_0295,seller_0083,Logo & Brand Design,368.73,USD,completed,2025-09-22T14:40:00,2025-10-08T12:57:00,5,36.87,paypal
+txn_000083,gig_0035,buyer_0127,seller_0125,Logo & Brand Design,211.77,INR,completed,2026-07-13T07:40:00,2026-07-21T19:46:00,5,21.18,stripe
+txn_000084,gig_0022,buyer_0123,seller_0033,Data Labeling,395.9,USD,completed,2026-10-13T02:53:00,2026-10-18T01:02:00,5,39.59,paypal
+txn_000085,gig_0113,buyer_0181,seller_0166,AI Content Writing,75.0,USD,in_progress,2026-06-30T05:47:00,,,7.5,crypto_usdc
+txn_000086,gig_0109,buyer_0378,seller_0236,Web Development,72.56,USD,completed,2026-10-20T22:20:00,2026-10-31T18:54:00,5,7.26,crypto_usdc
+txn_000087,gig_0026,buyer_0293,seller_0061,Web Development,129.56,EUR,disputed,2026-07-15T04:30:00,,,12.96,gift_card
+txn_000088,gig_0038,buyer_0250,seller_0169,Translation,25.0,USD,cancelled,2025-02-04T21:57:00,,,0.0,stripe
+txn_000089,gig_0016,buyer_0232,seller_0055,AI Content Writing,15.72,USD,completed,2025-11-30T20:33:00,2025-12-11T05:58:00,5,1.57,stripe
+txn_000090,gig_0063,buyer_0217,seller_0033,Data Labeling,185.95,USD,cancelled,2025-12-22T23:36:00,,,0.0,stripe
+txn_000091,gig_0021,buyer_0335,seller_0105,Logo & Brand Design,259.71,GBP,completed,2026-02-24T17:39:00,2026-03-01T23:41:00,5,25.97,bank_transfer
+txn_000092,gig_0019,buyer_0051,seller_0099,Web Research,16.8,USD,completed,2026-01-09T17:12:00,2026-02-06T00:35:00,4,1.68,crypto_sol
+txn_000093,gig_0010,buyer_0397,seller_0131,Web Research,13.56,USD,completed,2026-07-16T22:54:00,2026-07-17T21:29:00,,1.36,crypto_sol
+txn_000094,gig_0061,buyer_0028,seller_0199,Web Development,130.57,INR,completed,2026-03-12T15:56:00,2026-03-25T15:28:00,,13.06,crypto_sol
+txn_000095,gig_0111,buyer_0172,seller_0087,Virtual Assistance,321.56,EUR,completed,2025-01-19T00:52:00,2025-01-21T23:08:00,5,32.16,stripe
+txn_000096,gig_0008,buyer_0160,seller_0213,AI Automation,28.71,EUR,completed,2026-03-16T14:33:00,2026-04-12T09:08:00,3,2.87,crypto_sol
+txn_000097,gig_0018,buyer_0254,seller_0069,AI Content Writing,499.85,USD,completed,2026-07-04T23:41:00,2026-07-14T17:48:00,5,49.99,paypal
+txn_000098,gig_0065,buyer_0021,seller_0209,Web Development,356.06,USD,completed,2026-09-04T14:02:00,2026-10-02T05:26:00,5,35.61,paypal
+txn_000099,gig_0072,buyer_0335,seller_0079,AI Content Writing,55.29,USD,cancelled,2025-07-13T07:41:00,,,0.0,crypto_sol
+txn_000100,gig_0032,buyer_0235,seller_0047,AI Automation,16.66,USD,disputed,2026-04-07T23:22:00,,,1.67,stripe
